@@ -20,21 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69c04310-b50a-402f-9f72-7c32002fa8ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sshConfigs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vrm_project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/base.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/notebook.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/bookings/index.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controller/BookingIndex.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/bookings/bookings.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/bookings/create_booking.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/bookings/footer.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/bookings/header.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Controller/LuckyController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/LuckyController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/bookings/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/bookings/index.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +74,7 @@
       <workItem from="1603744396589" duration="1898000" />
       <workItem from="1603750441195" duration="1092000" />
       <workItem from="1603752244782" duration="3054000" />
-      <workItem from="1603784275409" duration="1542000" />
+      <workItem from="1603784275409" duration="4166000" />
     </task>
     <task id="LOCAL-00001" summary="testing">
       <created>1603710693263</created>
@@ -104,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603784373094</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="põhistiil">
+      <created>1603785903452</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603785903452</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,7 +133,8 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="testing" />
     <MESSAGE value="twig, annotations, 1 video" />
-    <option name="LAST_COMMIT_MESSAGE" value="twig, annotations, 1 video" />
+    <MESSAGE value="põhistiil" />
+    <option name="LAST_COMMIT_MESSAGE" value="põhistiil" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="81" key="#Deployment" timestamp="1603750844954">
@@ -148,22 +149,22 @@
       <screen x="0" y="23" width="1440" height="785" />
     </state>
     <state x="304" y="68" key="#SSH_Configurations/0.23.1440.785@0.23.1440.785" timestamp="1603750843436" />
-    <state x="307" y="23" key="CommitChangelistDialog2" timestamp="1603784372539">
+    <state x="307" y="23" key="CommitChangelistDialog2" timestamp="1603785903108">
       <screen x="0" y="23" width="1440" height="785" />
     </state>
-    <state x="307" y="23" key="CommitChangelistDialog2/0.23.1440.785@0.23.1440.785" timestamp="1603784372539" />
+    <state x="307" y="23" key="CommitChangelistDialog2/0.23.1440.785@0.23.1440.785" timestamp="1603785903108" />
     <state x="100" y="123" width="1240" height="585" key="DirDiffDialog" timestamp="1603751953848">
       <screen x="0" y="23" width="1440" height="785" />
     </state>
     <state x="100" y="123" width="1240" height="585" key="DirDiffDialog/0.23.1440.785@0.23.1440.785" timestamp="1603751953848" />
-    <state x="451" y="148" key="NewPhpClassDialog" timestamp="1603710306220">
+    <state x="451" y="148" key="NewPhpClassDialog" timestamp="1603786706224">
       <screen x="0" y="23" width="1440" height="785" />
     </state>
-    <state x="451" y="148" key="NewPhpClassDialog/0.23.1440.785@0.23.1440.785" timestamp="1603710306220" />
-    <state x="320" y="142" key="Vcs.Push.Dialog.v2" timestamp="1603784377885">
+    <state x="451" y="148" key="NewPhpClassDialog/0.23.1440.785@0.23.1440.785" timestamp="1603786706224" />
+    <state x="320" y="142" key="Vcs.Push.Dialog.v2" timestamp="1603785905696">
       <screen x="0" y="23" width="1440" height="785" />
     </state>
-    <state x="320" y="142" key="Vcs.Push.Dialog.v2/0.23.1440.785@0.23.1440.785" timestamp="1603784377885" />
+    <state x="320" y="142" key="Vcs.Push.Dialog.v2/0.23.1440.785@0.23.1440.785" timestamp="1603785905696" />
     <state x="627" y="153" key="ftp.server.browser" timestamp="1603710023774">
       <screen x="0" y="23" width="1440" height="785" />
     </state>
