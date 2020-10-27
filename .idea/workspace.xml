@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="69c04310-b50a-402f-9f72-7c32002fa8ba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sshConfigs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vrm_project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/notebook.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/bookings/index.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/LuckyController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/LuckyController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.1">
+    <include_path>
+      <path value="$USER_HOME$/PhpstormProjects/php_alused" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1jPdpEw5GJaerly0VeMbcEkda0P" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69c04310-b50a-402f-9f72-7c32002fa8ba" name="Default Changelist" comment="" />
+      <created>1603709843044</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603709843044</updated>
+      <workItem from="1603709844545" duration="1699000" />
+      <workItem from="1603711874383" duration="107000" />
+      <workItem from="1603712025299" duration="242000" />
+      <workItem from="1603716903895" duration="1642000" />
+      <workItem from="1603744396589" duration="1898000" />
+      <workItem from="1603750441195" duration="1092000" />
+      <workItem from="1603752244782" duration="3054000" />
+      <workItem from="1603784275409" duration="1542000" />
+    </task>
+    <task id="LOCAL-00001" summary="testing">
+      <created>1603710693263</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603710693263</updated>
+    </task>
+    <task id="LOCAL-00002" summary="testing">
+      <created>1603711141146</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603711141146</updated>
+    </task>
+    <task id="LOCAL-00003" summary="twig, annotations, 1 video">
+      <created>1603784373094</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603784373094</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="testing" />
+    <MESSAGE value="twig, annotations, 1 video" />
+    <option name="LAST_COMMIT_MESSAGE" value="twig, annotations, 1 video" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="81" key="#Deployment" timestamp="1603750844954">
+      <screen x="0" y="23" width="1440" height="785" />
+    </state>
+    <state x="320" y="81" key="#Deployment/0.23.1440.785@0.23.1440.785" timestamp="1603750844954" />
+    <state x="354" y="95" key="#Options" timestamp="1603751491626">
+      <screen x="0" y="23" width="1440" height="785" />
+    </state>
+    <state x="354" y="95" key="#Options/0.23.1440.785@0.23.1440.785" timestamp="1603751491626" />
+    <state x="304" y="68" key="#SSH_Configurations" timestamp="1603750843436">
+      <screen x="0" y="23" width="1440" height="785" />
+    </state>
+    <state x="304" y="68" key="#SSH_Configurations/0.23.1440.785@0.23.1440.785" timestamp="1603750843436" />
+    <state x="307" y="23" key="CommitChangelistDialog2" timestamp="1603784372539">
+      <screen x="0" y="23" width="1440" height="785" />
+    </state>
+    <state x="307" y="23" key="CommitChangelistDialog2/0.23.1440.785@0.23.1440.785" timestamp="1603784372539" />
+    <state x="100" y="123" width="1240" height="585" key="DirDiffDialog" timestamp="1603751953848">
+      <screen x="0" y="23" width="1440" height="785" />
+    </state>
+    <state x="100" y="123" width="1240" height="585" key="DirDiffDialog/0.23.1440.785@0.23.1440.785" timestamp="1603751953848" />
+    <state x="451" y="148" key="NewPhpClassDialog" timestamp="1603710306220">
+      <screen x="0" y="23" width="1440" height="785" />
+    </state>
+    <state x="451" y="148" key="NewPhpClassDialog/0.23.1440.785@0.23.1440.785" timestamp="1603710306220" />
+    <state x="320" y="142" key="Vcs.Push.Dialog.v2" timestamp="1603784377885">
+      <screen x="0" y="23" width="1440" height="785" />
+    </state>
+    <state x="320" y="142" key="Vcs.Push.Dialog.v2/0.23.1440.785@0.23.1440.785" timestamp="1603784377885" />
+    <state x="627" y="153" key="ftp.server.browser" timestamp="1603710023774">
+      <screen x="0" y="23" width="1440" height="785" />
+    </state>
+    <state x="627" y="153" key="ftp.server.browser/0.23.1440.785@0.23.1440.785" timestamp="1603710023774" />
+    <state x="593" y="314" key="publish.login" timestamp="1603784449764">
+      <screen x="0" y="23" width="1440" height="785" />
+    </state>
+    <state x="593" y="314" key="publish.login/0.23.1440.785@0.23.1440.785" timestamp="1603784449764" />
+  </component>
+</project>
