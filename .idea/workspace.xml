@@ -20,9 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69c04310-b50a-402f-9f72-7c32002fa8ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/css/form.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Entity/Bookings.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/bookings/create_booking.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/bookings/create_booking.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +70,7 @@
       <workItem from="1603750441195" duration="1092000" />
       <workItem from="1603752244782" duration="3054000" />
       <workItem from="1603784275409" duration="5116000" />
-      <workItem from="1603789532557" duration="2532000" />
+      <workItem from="1603789532557" duration="5631000" />
     </task>
     <task id="LOCAL-00001" summary="testing">
       <created>1603710693263</created>
@@ -114,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603790950015</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="form style">
+      <created>1603792395696</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1603792395696</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,7 +153,8 @@
     <MESSAGE value="põhistiil" />
     <MESSAGE value="2 route ja 2 template" />
     <MESSAGE value="form" />
-    <option name="LAST_COMMIT_MESSAGE" value="form" />
+    <MESSAGE value="form style" />
+    <option name="LAST_COMMIT_MESSAGE" value="form style" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="81" key="#Deployment" timestamp="1603750844954">
@@ -161,22 +169,22 @@
       <screen x="0" y="23" width="1440" height="785" />
     </state>
     <state x="304" y="68" key="#SSH_Configurations/0.23.1440.785@0.23.1440.785" timestamp="1603750843436" />
-    <state x="307" y="23" key="CommitChangelistDialog2" timestamp="1603790949669">
+    <state x="307" y="23" key="CommitChangelistDialog2" timestamp="1603792395378">
       <screen x="0" y="23" width="1440" height="785" />
     </state>
-    <state x="307" y="23" key="CommitChangelistDialog2/0.23.1440.785@0.23.1440.785" timestamp="1603790949669" />
+    <state x="307" y="23" key="CommitChangelistDialog2/0.23.1440.785@0.23.1440.785" timestamp="1603792395378" />
     <state x="100" y="123" width="1240" height="585" key="DirDiffDialog" timestamp="1603751953848">
       <screen x="0" y="23" width="1440" height="785" />
     </state>
     <state x="100" y="123" width="1240" height="585" key="DirDiffDialog/0.23.1440.785@0.23.1440.785" timestamp="1603751953848" />
-    <state x="451" y="148" key="NewPhpClassDialog" timestamp="1603786706224">
+    <state x="451" y="148" key="NewPhpClassDialog" timestamp="1603796001184">
       <screen x="0" y="23" width="1440" height="785" />
     </state>
-    <state x="451" y="148" key="NewPhpClassDialog/0.23.1440.785@0.23.1440.785" timestamp="1603786706224" />
-    <state x="320" y="142" key="Vcs.Push.Dialog.v2" timestamp="1603790952031">
+    <state x="451" y="148" key="NewPhpClassDialog/0.23.1440.785@0.23.1440.785" timestamp="1603796001184" />
+    <state x="320" y="142" key="Vcs.Push.Dialog.v2" timestamp="1603792397653">
       <screen x="0" y="23" width="1440" height="785" />
     </state>
-    <state x="320" y="142" key="Vcs.Push.Dialog.v2/0.23.1440.785@0.23.1440.785" timestamp="1603790952031" />
+    <state x="320" y="142" key="Vcs.Push.Dialog.v2/0.23.1440.785@0.23.1440.785" timestamp="1603792397653" />
     <state x="627" y="153" key="ftp.server.browser" timestamp="1603710023774">
       <screen x="0" y="23" width="1440" height="785" />
     </state>
